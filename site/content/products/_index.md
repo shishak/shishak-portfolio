@@ -1,29 +1,30 @@
 ---
 title: Our Coffee
-image: /img/m68xrffzwnprjzymak3orlx6ujz2_full_1473735116891_06.png
+image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1473248933311_037.png
 intro:
   blurbs:
-    - image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1475556131669_list.png
+    - image: >-
+        /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1473697193293_screen-shot-2016-09-12-at-19.19.35.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/m68xrffzwnprjzymak3orlx6ujz2-2ffull-2f1473740118933-2fhokkaido.png
+    - image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1476870696464_day.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/screen-shot-2016-09-26-at-06.11.37.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/obmen.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
