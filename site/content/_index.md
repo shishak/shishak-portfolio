@@ -1,7 +1,8 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/reestraziya.png
+image: >-
+  /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1473246089143_whatismaterial_environment_3d.png
 blurb:
   heading: Why Kaldi?
   text: >-
