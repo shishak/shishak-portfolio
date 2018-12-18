@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1476870715231_week.png
+image: /img/m68xrffzwnprjzymak3orlx6ujz2_full_1473735116891_06.png
 intro:
   blurbs:
     - image: /img/illustrations-tutorials.svg
