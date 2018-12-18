@@ -1,5 +1,6 @@
 ---
 title: Contact
+image: /img/about-direct-sourcing.jpg
 ---
 
 
