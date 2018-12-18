@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1473248933311_037.png
+image: /img/768678.png
 intro:
   blurbs:
     - image: >-
