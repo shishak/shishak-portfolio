@@ -40,8 +40,7 @@ export default class PostPreview extends React.Component {
             </div>
           </div>
         </div>
-
-     
+ 
 
     </div>
   }
