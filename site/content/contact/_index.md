@@ -1,14 +1,7 @@
 ---
 title: Contact
-image: /img/about-direct-sourcing.jpg
 ---
-
-
-![](/img/illustrations-tutorials.svg)
-
-
-
-
+![](/img/android-chrome-512x512.png)
 
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
