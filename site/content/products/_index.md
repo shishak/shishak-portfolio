@@ -3,14 +3,14 @@ title: Our Coffee
 image: /img/m68xrffzwnprjzymak3orlx6ujz2_full_1473735116891_06.png
 intro:
   blurbs:
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1475556131669_list.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/m68xrffzwnprjzymak3orlx6ujz2-2ffull-2f1473740118933-2fhokkaido.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
