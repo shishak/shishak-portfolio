@@ -1,7 +1,7 @@
 ---
 title: Simon Shishak
 subtitle: UI/UX Designer
-image: /img/ui-b.png
+image: /img/black.png
 blurb:
   heading: Why Kaldi?
   text: >-
