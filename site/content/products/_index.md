@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: /img/white.jpg
+image: /img/56466.png
 intro:
   blurbs:
     - image: /img/apple-touch-icon.png
