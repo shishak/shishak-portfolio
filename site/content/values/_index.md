@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/illustrations-tutorials.svg
+image: /img/5ozxvdbrttrsgmaj7mmsokbfvum1_full_1476870696464_day.png
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/illustrations-meeting-space.svg
