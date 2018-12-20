@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Simon Shishak
+subtitle: UI/UX Designer
 image: /img/white.png
 blurb:
   heading: Why Kaldi?
