@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: ' '
 image: /img/56466.png
 intro:
   blurbs:
