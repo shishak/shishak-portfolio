@@ -6789,10 +6789,7 @@ a:focus,button:focus,input:focus,textarea:focus {
 	background-color:#fed5c6
 }
 
-.divider-grey {
-	-webkit-box-shadow:inset 0 -4px 0 #f5f3f2;
-	box-shadow:inset 0 -4px 0 #f5f3f2
-}
+
 
 .divider-grey a {
 	-webkit-transition:all .15s ease;
