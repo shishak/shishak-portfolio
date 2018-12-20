@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/attachment.jpg
+image: /img/56465.png
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/456456.png
