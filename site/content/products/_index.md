@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: /img/blog-index.jpg
+image: /img/blog-index2.jpg
 intro:
   blurbs:
     - image: /img/apple-touch-icon.png
