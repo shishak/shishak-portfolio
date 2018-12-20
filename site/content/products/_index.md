@@ -1,6 +1,6 @@
 ---
 title: 'Products '
-image: /img/56466.png
+image: /img/ui.png
 intro:
   blurbs:
     - image: /img/apple-touch-icon.png
