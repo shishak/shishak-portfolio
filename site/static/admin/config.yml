@@ -47,13 +47,13 @@ collections: # A list of collections the CMS should be able to edit
          
          
      - file: "site/content/portfolio/_index.md"
-        label: "Values Page"
-        name: "values"
+        label: "Portfolio Page"
+        name: "portfolio"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
+          - label: Portfolio
+            name: portfolio
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
