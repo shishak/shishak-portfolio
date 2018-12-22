@@ -18,7 +18,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
   </div>;
 };
 
-export default class PortfolioPreview extends React.Component {
+export default class ValuesPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     
@@ -29,8 +29,8 @@ export default class PortfolioPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const entryPortfolio = entry.getIn(["data", "potfolio"]);
-    const potfolio= entryPortfolio ? entryPortfolio.toJS() : [];
+    const entryValues = entry.getIn(["data", "values"]);
+    const values = entryValues ? entryValues.toJS() : [];
     
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
